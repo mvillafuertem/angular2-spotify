@@ -12,7 +12,7 @@ hr{
   background-color: #171717;
 }
 
-.puntero{
+.pointer{
   cursor: pointer;
 }
 
@@ -38,6 +38,11 @@ hr{
 
 .img-circle{
   border-radius: 100%;
+}
+
+.img-50 {
+  height: 50px;
+  width: 50px;
 }
 
 
